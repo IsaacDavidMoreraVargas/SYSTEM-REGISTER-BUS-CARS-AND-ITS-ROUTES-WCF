@@ -1,0 +1,7 @@
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\bin\MiWS.dll.config
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\bin\MiWS.dll
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\bin\MiWS.pdb
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\obj\Debug\MiWS.csprojAssemblyReference.cache
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\obj\Debug\MiWS.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\obj\Debug\MiWS.dll
+C:\Users\Isaac Morera Vargas\source\repos\MiWS\obj\Debug\MiWS.pdb

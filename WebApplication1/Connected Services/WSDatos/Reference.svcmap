@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="e1ecf82e-dd62-4757-b278-9e0c4a490f52" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:50335/WSDatos.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WSDatos.xsd" MetadataType="Schema" ID="f948dbcd-5cec-4c47-887d-192cb951d2d5" SourceId="1" SourceUrl="http://localhost:50335/WSDatos.svc?xsd=xsd0" />
+    <MetadataFile FileName="WSDatos.wsdl" MetadataType="Wsdl" ID="814fb0f0-a5c0-44d5-a593-f8cffec8c08b" SourceId="1" SourceUrl="http://localhost:50335/WSDatos.svc?wsdl" />
+    <MetadataFile FileName="WSDatos1.xsd" MetadataType="Schema" ID="b9f141b8-380e-4e23-91c0-7a0a143650b0" SourceId="1" SourceUrl="http://localhost:50335/WSDatos.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSDatos2.xsd" MetadataType="Schema" ID="f020354f-8966-4ab1-9c10-a9f9c21f05d7" SourceId="1" SourceUrl="http://localhost:50335/WSDatos.svc?xsd=xsd2" />
+    <MetadataFile FileName="WSDatos.disco" MetadataType="Disco" ID="f204f29a-ba40-4fc5-a151-854b13bd9776" SourceId="1" SourceUrl="http://localhost:50335/WSDatos.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
